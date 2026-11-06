@@ -1,2 +1,2 @@
 # myeating
-Eaating animation for Luanti
+Eating animation for Luanti
