@@ -1,0 +1,2 @@
+# Eating animation style (fun = camera bobbing + item crumbs, crumbs = bottom HUD food + custom flying crumbs)
+myeating_style (Eating animation style) enum crumbs fun,crumbs
